@@ -1,7 +1,7 @@
 loadText = document.querySelector('.loading-text')
 bg = document.querySelector('.bg')
 
-load = 90
+load = 0
 
 int = setInterval(blurring, 30)
 
