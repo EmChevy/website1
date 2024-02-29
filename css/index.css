@@ -11,3 +11,10 @@ body {
     margin: 0;
 }
 
+.list {
+    height: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
