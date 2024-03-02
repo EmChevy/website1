@@ -1,21 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
 
 body {
-    background-color: Lavender;
+    background-color: rgb(152, 161, 245);
     height: 100vh;
     margin: 0;
+
 }
 
 .web {
+    height: 76px;
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 0;
+    font-size: 40px;
+    font-family: "Anta", sans-serif;
+    color: rgb(68, 60, 115);
 }
 
 .list {
-    height: 7px;
+    height: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 0;
+    font-size: 16px;
+    color: rgb(73, 59, 150);
+    font-family: "Anta", sans-serif;
 }
