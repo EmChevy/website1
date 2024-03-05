@@ -21,4 +21,5 @@ body {
     background-image: url(images/train.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: bottom center;
 }
