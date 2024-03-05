@@ -54,7 +54,12 @@ body {
     letter-spacing: 1px;
 }
 
-.content h2 .content h3 {
+.content h2 {
+    font-size: 150%;
+    margin: 20px 0;
+}
+
+.content h3 {
     font-size: 150%;
     margin: 20px 0;
 }
@@ -68,4 +73,9 @@ body {
 
 .nav {
     position: fixed;
+    background-color: #222;
+    top: 0;
+    left: 0;
+    right: 0;
+    transition: all 0.3s ease-in-out;
 }
