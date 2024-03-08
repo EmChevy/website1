@@ -21,10 +21,12 @@ body {
 .list {
     height: 15px;
     display: flex;
-    align-items: center;
+    align-items: left;
     justify-content: center;
     margin: 0;
     font-size: 16px;
     color: rgb(73, 59, 150);
     font-family: "Anta", sans-serif;
+    
 }
+
