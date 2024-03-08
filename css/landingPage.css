@@ -2,7 +2,7 @@
 
 :root {
     --primary-color: rgb(48,51,107);
-    --secondary-color: #be2edd;
+    --secondary-color: rgb(152, 161, 245);
     --modal-duration: 1s;
 }
 
@@ -81,6 +81,6 @@ header p {
     margin: 30px 0;
 }
 
-button {
-    
+button, input {
+    background-color: var(--secondary-color);
 }
