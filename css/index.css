@@ -27,6 +27,14 @@ body {
     font-size: 16px;
     color: rgb(73, 59, 150);
     font-family: "Anta", sans-serif;
-    
+
 }
 
+header {
+    background-color: black;
+    color: white;
+    font-size: 130%;
+    position: relative;
+    padding: 5px;
+    text-align: center;
+}
