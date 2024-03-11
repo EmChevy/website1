@@ -35,11 +35,5 @@ header {
     color: white;
     font-size: 130%;
     position: relative;
-    padding: 5px;
-    text-align: center;
-    width: 600px;
-    align-items: center;
-    left: 377px;
-    border-radius: 10px;
-    top: 5px;
+
 }
