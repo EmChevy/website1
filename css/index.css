@@ -2,7 +2,7 @@
 
 
 body {
-    background-color: lavender;
+    background-color: rgb(205, 209, 250);
     height: 100vh;
     margin: 0;
 }
@@ -37,4 +37,9 @@ header {
     position: relative;
     padding: 5px;
     text-align: center;
+    width: 600px;
+    align-items: center;
+    left: 377px;
+    border-radius: 10px;
+    top: 5px;
 }
