@@ -99,4 +99,6 @@ header {
     font-family: "Anta", sans-serif;
 }
 
-
+.ul:hover {
+    color: orange;
+}
