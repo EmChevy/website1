@@ -12,6 +12,22 @@ body {
     margin: 0;
 }
 
+.hero {
+    background-image: url(images/pink_blue_citycar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    height: 100vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    margin-bottom: 20px;
+    z-index: -2;
+}
+
 .web {
     height: 76px;
     display: flex;
