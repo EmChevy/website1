@@ -28,6 +28,11 @@ body {
     z-index: -2;
 }
 
+.box {
+    width:200px;
+    border: 1px solid black;
+}
+
 .web {
     height: 76px;
     display: flex;
@@ -106,5 +111,5 @@ header {
 
 .nav a:hover {
     color: rgb(152, 161, 245);
-    
+
 }
