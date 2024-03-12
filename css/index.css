@@ -99,6 +99,7 @@ header {
     font-family: "Anta", sans-serif;
 }
 
-.ul:hover {
+.nav a.current,
+.nav a:hover {
     color: orange;
 }
