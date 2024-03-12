@@ -28,6 +28,10 @@ body {
     z-index: -2;
 }
 
+.list {
+    
+}
+
 .web {
     height: 76px;
     display: flex;
@@ -68,4 +72,45 @@ header {
     font-size: 130%;
     position: relative;
     height: 180px;
+}
+
+
+.nav {
+    position: fixed;
+    background-color: #222;
+    top: 0;
+    left: 0;
+    right: 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.nav ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    padding: 7px 15px;
+    transition: all 0.3s ease-in-out;
+}
+
+.nav li {
+    font-size: 20px;
+    font-family: "Anta", sans-serif;
+}
+
+.nav h1 {
+    font-family: "Anta", sans-serif;
 }
