@@ -114,3 +114,10 @@ header {
 .nav h1 {
     font-family: "Anta", sans-serif;
 }
+
+.nav a.current,
+.nav a:hover {
+    color: white;
+    font-weight: bold;
+    
+}
