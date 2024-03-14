@@ -108,17 +108,8 @@ body {
     max-width: 100%;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
-    animation-name: modalopen;
     animation-duration: var(--modal-duration);
 }
-
-/* .modal-header {
-    background-color: rgb(50, 43, 89);
-    color: white;
-    padding: 15px;
-    font-family: "Anta", sans-serif;
-
-} */
 
 .modal-form div {
     margin: 10px 0;
@@ -133,12 +124,12 @@ body {
 
 }
 
-.modal a {
+.modal ul li a {
     padding: 3px;
     border-bottom: 2px solid rgba(200,200,200,0.1);
 }
 
-.modal a:nth-of-type(1) {
+.modal ul li a:nth-of-type(1) {
     border-top: 2px solid rgba(200,200,200,0.1);
 }
 
