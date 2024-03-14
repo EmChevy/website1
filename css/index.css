@@ -58,7 +58,7 @@ header {
 
 .nav {
     position: fixed;
-    background-color: rgb(50, 43, 89);
+    background-color: rgb(41, 35, 77);
     top: 0;
     left: 0;
     right: 0;
@@ -125,3 +125,9 @@ header {
     color: white;
     padding: 15px;
 }
+
+.modal-form div {
+    margin: 10px 0;
+    
+}
+
