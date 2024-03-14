@@ -128,7 +128,9 @@ body {
 }
 
 .modal-form a {
-    color: black;
+    color: white;
     text-decoration: none;
+    font-family: "Anta", sans-serif;
+
 }
 
