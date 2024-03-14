@@ -47,13 +47,6 @@ body {
     color: rgb(152, 161, 245);
 }
 
-header {
-    background-color: rgb(50, 43, 89);
-    color: white;
-    font-size: 130%;
-    position: relative;
-    height: 180px;
-}
 
 
 .nav {
@@ -131,6 +124,8 @@ header {
 
 .modal-form div {
     margin: 10px 0;
+    text-align: center;
+    position: relative;
 }
 
 
