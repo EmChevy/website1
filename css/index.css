@@ -48,7 +48,7 @@ body {
 }
 
 header {
-    background-color: rgb(68, 60, 115);
+    background-color: rgb(50, 43, 89);
     color: white;
     font-size: 130%;
     position: relative;
@@ -58,7 +58,7 @@ header {
 
 .nav {
     position: fixed;
-    background-color: #222;
+    background-color: rgb(50, 43, 89);
     top: 0;
     left: 0;
     right: 0;
@@ -120,4 +120,8 @@ header {
     animation-duration: var(--modal-duration);
 }
 
-
+.modal-header {
+    background-color: rgb(68, 60, 115);
+    color: white;
+    padding: 15px;
+}
