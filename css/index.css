@@ -100,7 +100,7 @@ body {
 .modal {
     background-color: RebeccaPurple;
     position: absolute;
-    top: 30%;
+    top: 29%;
     left: 92%;
     transform: translate(-50%, -50%);
     width: 200px;
@@ -110,7 +110,6 @@ body {
     box-shadow: 0 0 10px rgba(0,0,0,0.3);
     animation-name: modalopen;
     animation-duration: var(--modal-duration);
-    border: 2px solid white;
 }
 
 /* .modal-header {
