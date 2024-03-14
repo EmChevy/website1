@@ -51,7 +51,7 @@ body {
 
 .nav {
     position: fixed;
-    background-color: rgb(32, 37, 102);
+    background-color: rgb(18, 22, 64);
     top: 0;
     left: 0;
     right: 0;
@@ -128,5 +128,8 @@ body {
     position: relative;
 }
 
-
+.modal-form a {
+    color: black;
+    text-decoration: none;
+}
 
