@@ -47,11 +47,13 @@ body {
     color: rgb(152, 161, 245);
 }
 
-
+.nav li a {
+    
+}
 
 .nav {
     position: fixed;
-    background-color: rgb(18, 22, 64);
+    background-color: rgb(5, 17, 59);
     top: 0;
     left: 0;
     right: 0;
