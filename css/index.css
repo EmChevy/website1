@@ -7,8 +7,6 @@
 }
 
 body {
-    background-color: rgb(205, 209, 250);
-    height: 100vh;
     margin: 0;
 }
 
@@ -24,15 +22,7 @@ body {
     align-items: center;
     text-align: center;
     position: relative;
-    margin-bottom: 20px;
     z-index: -2;
-}
-
-.box {
-    
-    height: 200px;
-    width:300px;
-    border: 1px solid black;
 }
 
 .web {
@@ -73,6 +63,7 @@ header {
     left: 0;
     right: 0;
     transition: all 0.3s ease-in-out;
+    display:none;
 }
 
 .nav .container {
