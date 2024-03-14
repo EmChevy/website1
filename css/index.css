@@ -145,4 +145,9 @@ body {
 .modal ul li {
     list-style-type: none;
     padding: 3px;
+    margin: 0;
+}
+
+.modal ul li a:hover {
+    text-decoration: underline;
 }
