@@ -152,7 +152,7 @@ body {
     text-decoration: underline;
 }
 
-button, input[type='submit'] {
+/* button, input[type='submit'] {
     background-color: rgb(5, 15, 51);
     border: 0;
     border-radius: 5px;
@@ -164,6 +164,6 @@ button, input[type='submit'] {
 .ctn-btn {
     padding: 12px 30px;
     font-size: 20px;
-}
+} */
 
 
