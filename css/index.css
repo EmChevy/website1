@@ -117,8 +117,8 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: rgba(0,0,0,0.6);
-    display: none;
+    
+
 }
 
 .modal-container.show-modal {
@@ -159,10 +159,6 @@ button, input[type='submit'] {
     color: white;
     padding: 8px 12px;
     cursor: pointer;
-}
-
-.toggle {
-
 }
 
 .ctn-btn {
