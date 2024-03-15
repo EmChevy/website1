@@ -1,5 +1,5 @@
 open = document.getElementById('open')
-modl = document.getElementById('modal')
+modal = document.getElementById('modal')
 close = document.getElementById('close')
 
 
