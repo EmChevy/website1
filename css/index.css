@@ -110,7 +110,6 @@ body {
     display: block;
 }
 
-
 .modal {
     background-color: rgb(126, 133, 196);
     position: absolute;
@@ -122,7 +121,6 @@ body {
     max-width: 100%;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
-    animation-duration: var(--modal-duration);
 }
 
 .modal-form div {
