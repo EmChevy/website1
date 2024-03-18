@@ -97,17 +97,8 @@ body {
 
 }
 
-.container {
-    margin: 0 auto;
-    max-width: 100%;
-}
-
-.modal-container {
-    /* display: none; */
-}
-
-.modal-container.show-modal {
-    display: block;
+body.show-modal {
+    transform: translateX(-100%);
 }
 
 .modal {
