@@ -120,7 +120,7 @@ body {
     border-right: 2px solid rgba(200,200,200,0.1);
     z-index: 100;
     color: white;
-    transform: translateX();
+    transform: translateX(100%);
 }
 
 .modal-form div {
@@ -136,14 +136,20 @@ body {
 
 }
 
+.modal ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
 .modal ul li:nth-of-type(1) {
     border-top: 2px solid rgba(200,200,200,0.1);
 }
 
 .modal ul li {
     list-style-type: none;
-    padding: 5px;
-    margin: 0;
+    padding: 20px;
+    border-bottom: 2px solid rgba(200,200,200,0.1);
 }
 
 .modal ul li a:hover {
@@ -159,6 +165,13 @@ button, input[type='submit'] {
     cursor: pointer;
 }
 
+.toggle {
+    background-color: rgba(0,0,0,0.3);
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
 .ctn-btn {
     padding: 12px 30px;
     font-size: 20px;
@@ -168,3 +181,5 @@ button, input[type='submit'] {
     padding: 30px 0;
     text-align: center;
 }
+
+
