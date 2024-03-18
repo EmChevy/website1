@@ -187,7 +187,7 @@ button, input[type='submit'] {
 }
 
 .return {
-    transform: translateX(840px);
+    margin: 0;
 }
 
 .return a {
