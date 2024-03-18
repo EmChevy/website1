@@ -103,7 +103,7 @@ body {
 }
 
 .modal-container {
-    display: none;
+    /* display: none; */
 }
 
 .modal-container.show-modal {
