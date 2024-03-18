@@ -104,7 +104,7 @@ body.show-modal {
     width: 200px;
     height: 100%;
     z-index: 100;
-    transform: translateX(200px);
+    transform: translateX(201px);
 
 }
 
