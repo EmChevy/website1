@@ -24,6 +24,7 @@ body {
     text-align: center;
     position: relative;
     z-index: -2;
+
 }
 
 .web {
@@ -146,9 +147,7 @@ button, input[type='submit'] {
     cursor: pointer;
 }
 
-.toggle {
 
-}
 
 
 
