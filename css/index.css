@@ -112,15 +112,15 @@ body {
 
 .modal {
     background-color: rgb(126, 133, 196);
-    position: absolute;
-    top: 31%;
-    left: 92%;
-    transform: translate(-50%, -50%);
+    position: fixed;
+    top: 0;
+    left: 1720px;
     width: 200px;
-    height: 213px;
-    max-width: 100%;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    height: 100%;
+    border-right: 2px solid rgba(200,200,200,0.1);
+    z-index: 100;
+    color: white;
+    transform: translateX();
 }
 
 .modal-form div {
