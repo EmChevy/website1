@@ -164,4 +164,7 @@ button, input[type='submit'] {
     font-size: 20px;
 }
 
-
+.modal .logo {
+    padding: 30px 0;
+    text-align: center;
+}
