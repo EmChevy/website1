@@ -185,3 +185,14 @@ button, input[type='submit'] {
     background: transparent;
     font-size: 25px;
 }
+
+.return {
+    transform: translateX(840px);
+}
+
+.return a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
