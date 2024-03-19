@@ -8,6 +8,7 @@
 
 body {
     margin: 0;
+    overflow: hidden;
 }
 
 .hero {
@@ -92,19 +93,20 @@ body {
 
 }
 
-body.show-modal {
-    transform: translateX(-200px);
+.show-modal {
+    transform: translateX(200px);
 }
 
 .modal {
     background-color: rgb(5, 15, 51);
-    position: fixed;
+    position: absolute;
     top: 0;
-    left: 1165px;
+    left: 0;
     width: 200px;
-    height: 100%;
+    height: 100vh;
     z-index: 100;
-    transform: translateX(201px);
+    transform: translateX(-200px);
+    transition: transform 1s ease-in-out;
 
 }
 
