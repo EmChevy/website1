@@ -4,6 +4,7 @@ toggle.addEventListener('click', () => {
     document.body.classList.toggle('show-modal')
 })
 
+
 // open = document.getElementById('open')
 // modal = document.getElementById('modal')
 // close = document.getElementById('close')

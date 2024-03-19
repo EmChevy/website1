@@ -106,7 +106,7 @@ body {
     height: 100vh;
     z-index: 100;
     transform: translateX(-200px);
-    transition: transform 1s ease-in-out;
+
 
 }
 
